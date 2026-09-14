@@ -48,7 +48,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@74237c83-7753-4166-ba7d-f9ca863a1fd4&theme=tokyonight&layout=compact&hide_border=true" alt="WakaTime Stats" width="90%" />
+      <img src="https://github-readme-wakatime.vercel.app/api?username=@74237c83-7753-4166-ba7d-f9ca863a1fd4&theme=tokyonight" alt="WakaTime Stats" width="100%" />
     </td>
   </tr>
 </table>
