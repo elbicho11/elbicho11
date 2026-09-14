@@ -19,10 +19,10 @@
     <a href="mailto:vitorantoniosilva11@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <a href="https://linkedin.com/in/vitor-antônio-926555430">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/SEU_INSTAGRAM">
+    <a href="https://instagram.com/vitorkk1_">
       <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
@@ -33,25 +33,17 @@
 
 <br />
 
-<!-- SEÇÃO SOBRE MIM & SOFT SKILLS (COM WAKATIME) -->
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> <code>// SYSTEM_SPECIFICATIONS</code></h2>
-      <p>Desenvolvedor de 19 anos, apaixonado por tecnologia, inovação, automação e arquitetura de software moderna.</p>
-      <ul>
-        <li>🎓 <b>Formação:</b> Graduando em Ciência da Computação no Centro Universitário UNA (Campus Divinópolis).</li>
-        <li>🚀 <b>Foco Atual:</b> Desenvolvimento Web e Mobile (Criação de Aplicativos e Sites Modernos/Escaláveis).</li>
-        <li>🧠 <b>Soft Skills:</b> Resolução de problemas complexos, aprendizado contínuo, lógica estruturada e trabalho em equipe.</li>
-        <li>🎮 <b>Hobbies:</b> Mecânica e projetos DIY, tecnologia, hardware e jogos digitais.</li>
-        <li>🛠️ <b>Filosofia:</b> <i>"Transformando ideias complexas em interfaces funcionais do futuro."</i></li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <img src="https://github-readme-wakatime.vercel.app/api?username=@74237c83-7753-4166-ba7d-f9ca863a1fd4&theme=tokyonight" alt="WakaTime Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- SEÇÃO SOBRE MIM & SOFT SKILLS (SEM WAKATIME - FULL WIDTH) -->
+<h2>⚙️ <code>// SYSTEM_SPECIFICATIONS</code></h2>
+<p>Desenvolvedor de 19 anos, apaixonado por tecnologia, inovação, automação e arquitetura de software moderna.</p>
+
+<ul>
+  <li>🎓 <b>Formação:</b> Graduando em Ciência da Computação no Centro Universitário UNA (Campus Divinópolis).</li>
+  <li>🚀 <b>Foco Atual:</b> Desenvolvimento Web e Mobile (Criação de Aplicativos e Sites Modernos/Escaláveis).</li>
+  <li>🧠 <b>Soft Skills:</b> Resolução de problemas complexos, aprendizado contínuo, lógica estruturada, trabalho em equipe e atenção aos detalhes.</li>
+  <li>🎮 <b>Hobbies:</b> Mecânica e projetos DIY, tecnologia, hardware e jogos digitais.</li>
+  <li>🛠️ <b>Filosofia:</b> <i>"Transformando ideias complexas em interfaces funcionais e elegantes do futuro."</i></li>
+</ul>
 
 <br />
 
