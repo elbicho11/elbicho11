@@ -9,7 +9,7 @@
 
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Space/Milky%20Way.png" width="30" />
-    <span style="color:#00F0FF;">SYSTEM_USER</span> :: <b>VITOR ANTÔNIO</b>
+    <span style="color:#00F0FF;">SYSTEM_USER</span> :: <b>Vitor Antônio</b>
   </h1>
 
   <p><b>| FULL-STACK & MOBILE DEVELOPER | SOFTWARE ARCHITECT | AI & CYBERNETICS ENTHUSIAST |</b></p>
@@ -19,10 +19,10 @@
     <a href="mailto:vitorantoniosilva11@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <a href="https://linkedin.com/in/vitor-antônio-926555430">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/SEU_INSTAGRAM">
+    <a href="https://instagram.com/vitorkk1_">
       <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
