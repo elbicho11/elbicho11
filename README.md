@@ -8,7 +8,6 @@
   <br />
 
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Space/Milky%20Way.png" width="30" />
     <span style="color:#00F0FF;">SYSTEM_USER</span> :: <b>VITOR ANTÔNIO</b>
   </h1>
 
